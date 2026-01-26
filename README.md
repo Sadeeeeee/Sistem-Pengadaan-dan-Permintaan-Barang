@@ -35,3 +35,7 @@ gambar/ → Folder gambar pendukung
 instansi/ → Modul instansi / unit
 index.php → Halaman utama
 logout.php → Logout sistem
+
+#sandi
+id: bendahara
+pasword: admin
