@@ -39,3 +39,5 @@ logout.php → Logout sistem
 #sandi
 id: bendahara
 pasword: admin
+
+jelek banget
